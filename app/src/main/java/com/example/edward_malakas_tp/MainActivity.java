@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.ic_five,
             R.drawable.ic_five,
             R.drawable.ic_six,
-            R.drawable.ic_ssix
+            R.drawable.ic_six
     };
 
     @Override
